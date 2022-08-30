@@ -1,0 +1,11 @@
+Program to print postive numbers in a list 
+
+List1 = [11, -21, 0, 45, 66, -93]
+For num in list1:
+
+   If num >= 0:
+   Print(num,end = " ")
+
+
+
+
